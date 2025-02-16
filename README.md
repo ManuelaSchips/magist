@@ -15,7 +15,7 @@ In February 2025, our team, as part of the Data Analysis Bootcamp at WBS CODING 
 
 ## Technical Implementation and Tools
 - **Database Management**: MySQL was used to query and evaluate the relevant datasets.  
-- **Visualization**: Tableau Public helped present the findings in a clear manner. The corresponding workbook is available on my Tableau Public profile.
+- **Visualization**: Tableau Public helped present the findings in a clear manner. -- The corresponding workbook is available on my Tableau Public profile.
 
 ---
 
