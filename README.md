@@ -15,7 +15,7 @@ In February 2025, our team, as part of the Data Analysis Bootcamp at WBS CODING 
 
 ## Technical Implementation and Tools
 - **Database Management**: MySQL was used to query and evaluate the relevant datasets.  
-- **Visualization**: Tableau Public helped present the findings in a clear manner. -- The corresponding workbook is available on my Tableau Public profile.
+- **Visualization**: Tableau Public helped present the findings in a clear manner.
 
 ---
 
@@ -23,7 +23,7 @@ In February 2025, our team, as part of the Data Analysis Bootcamp at WBS CODING 
 The project allowed for an open view of the database to independently develop and answer questions. Building on a set of initial key questions, we delved deeper into the data, constantly uncovering new perspectives. The following focal points emerged, among others:
 
 1. **Expanding the Lines of Inquiry**: Instead of merely processing the specified questions, the team was encouraged to develop and test their own hypotheses.  
-2. **Teamwork and Learning Curve**: Within just one week of project time, it was impossible for individuals to handle all tasks alone. Effective collaboration was therefore crucial for the project’s success.  
+2. **Teamwork and Learning Curve**: Within just two weeks of project time, it was impossible for individuals to handle all tasks alone. Effective collaboration was therefore crucial for the project’s success.  
 3. **Focus Instead of Details**: By dividing responsibilities, we were able to formulate a concise recommendation without getting lost in irrelevant details.
 
 ---
