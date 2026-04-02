@@ -6,44 +6,40 @@ Business data analysis project to evaluate whether a three-year partnership with
 
 The objective of this project was to analyze sales, product, and customer data in order to assess whether a collaboration with Magist would be a strategically sound decision for Eniac.
 
-## Tech Stack
+## Tech Context
 
-- MySQL
-- Tableau Public
+This project was developed in the context of a data analysis bootcamp project using SQL-based analysis and Tableau for data exploration and visual interpretation.
 
 ## My Contribution
 
 As part of a team project during the Data Analysis Bootcamp at WBS CODING SCHOOL, I contributed to:
 
 - formulating and refining business questions
-- exploring and querying relational data in MySQL
-- analyzing product, sales, and customer-related patterns
+- exploring and analyzing relational business data
 - structuring findings into decision-relevant insights
-- supporting the development of a concise recommendation for stakeholders
+- supporting the development of a final recommendation for stakeholders
 
 ## Key Questions
 
 The analysis focused on questions such as:
 
 - Is Magist a suitable partner for Eniac’s expansion into Brazil?
-- Do product categories, delivery performance, and customer behavior support a viable partnership?
-- What risks and limitations become visible in the available data?
-
-## Approach
-
-The project started with a set of initial business questions and evolved into a broader exploratory analysis of the dataset.  
-The team investigated relevant patterns, tested hypotheses, and translated the findings into a management-oriented recommendation.
+- Are deliveries fast enough to support customer expectations?
+- Is Magist a suitable fit for high-end tech products?
+- What major operational and customer-related risks become visible in the data?
 
 ## Outcome
 
-The analysis provided a structured basis for evaluating the partnership with Magist.  
-It helped identify opportunities, limitations, and decision-relevant risks within the available data.
+The project findings indicated several critical concerns, including slow delivery performance, limited suitability for high-end tech products, and operational risks around handling, safety, and shipping. Based on the analysis, the final recommendation was not to pursue the partnership with Magist. :contentReference[oaicite:1]{index=1}
 
 ## Repository Contents
 
-- SQL queries / analysis work
-- presentation material
+- final project presentation
 - supporting project files
+
+## Current Documentation Status
+
+The presentation is currently included as the main project artifact. Additional project documentation may be added later as materials are reviewed and consolidated.
 
 ## Context
 
