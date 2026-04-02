@@ -30,7 +30,13 @@ The analysis focused on questions such as:
 
 ## Outcome
 
-The project findings indicated several critical concerns, including slow delivery performance, limited suitability for high-end tech products, and operational risks around handling, safety, and shipping. Based on the analysis, the final recommendation was not to pursue the partnership with Magist. :contentReference[oaicite:1]{index=1}
+The project findings indicated several critical concerns, including slow delivery performance, limited suitability for high-end tech products, and operational risks around handling, safety, and shipping. Based on the analysis, the final recommendation was not to pursue the partnership with Magist.
+
+## Project Presentation
+
+The presentation is currently the main documented project artifact and summarizes the key business questions, findings, and final recommendation.
+
+[View the presentation](./Presentation_3-Year-Contract-Progress-or-a-Burden.pdf)
 
 ## Repository Contents
 
