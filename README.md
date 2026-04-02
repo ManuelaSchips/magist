@@ -36,7 +36,7 @@ The project findings indicated several critical concerns, including slow deliver
 
 The presentation is currently the main documented project artifact and summarizes the key business questions, findings, and final recommendation.
 
-[View the presentation](./Presentation_3-Year-Contract-Progress-or-a-Burden.pdf)
+[View the presentation](./folder/Presentation_3-Year-Contract-Progress-or-a-Burden.pdf)
 
 ## Repository Contents
 
